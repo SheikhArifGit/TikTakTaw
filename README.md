@@ -2,6 +2,8 @@
 
 Free to use Tic‑Tac‑Toe game built with React + Vite. 
 
+[Try TikTakTaw Now!](https://baceksgit.github.io/TikTakTaw/)
+
 ## Screenshot
 
 ![TikTakTaw gameplay](./src/assets/tiktaktaw_gameplay.png)
