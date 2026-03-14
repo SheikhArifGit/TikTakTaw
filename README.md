@@ -2,6 +2,10 @@
 
 Free to use Tic‑Tac‑Toe game built with React + Vite. 
 
+## Screenshot
+
+![TikTakTaw gameplay](./src/assets/tiktaktaw_gameplay.png)
+
 **Author:** Baceks  
 **Created:** March 11, 2026 (GMT+8)
 
